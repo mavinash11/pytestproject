@@ -1,0 +1,106 @@
+2024-03-08 17:46:53 - root: INFO: start_test - Test Started
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - 165bbce4-436a-46c7-b554-532d3f597331
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - <div class="inventory_item_img"><a href="#" id="item_4_img_link"><img alt="Sauce Labs Backpack" class="inventory_item_img" src="/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg"></a></div><div class="inventory_item_description"><div class="inventory_item_label"><a href="#" id="item_4_title_link"><div class="inventory_item_name ">Sauce Labs Backpack</div></a><div class="inventory_item_desc">carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.</div></div><div class="pricebar"><div class="inventory_item_price">$29.99</div><button class="btn btn_primary btn_small btn_inventory " data-test="add-to-cart-sauce-labs-backpack" id="add-to-cart-sauce-labs-backpack" name="add-to-cart-sauce-labs-backpack">Add to cart</button></div></div>
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - 769d9555-ab01-44f6-8979-ebaa5818bc97
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - <div class="inventory_item_img"><a href="#" id="item_0_img_link"><img alt="Sauce Labs Bike Light" class="inventory_item_img" src="/static/media/bike-light-1200x1500.37c843b0.jpg"></a></div><div class="inventory_item_description"><div class="inventory_item_label"><a href="#" id="item_0_title_link"><div class="inventory_item_name ">Sauce Labs Bike Light</div></a><div class="inventory_item_desc">A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.</div></div><div class="pricebar"><div class="inventory_item_price">$9.99</div><button class="btn btn_primary btn_small btn_inventory " data-test="add-to-cart-sauce-labs-bike-light" id="add-to-cart-sauce-labs-bike-light" name="add-to-cart-sauce-labs-bike-light">Add to cart</button></div></div>
+2024-03-08 17:46:53 - root: INFO: list_items_available_in_shopping_page - 7757d0ad-312b-45e9-bcb4-3754530c3e7c
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - <div class="inventory_item_img"><a href="#" id="item_1_img_link"><img alt="Sauce Labs Bolt T-Shirt" class="inventory_item_img" src="/static/media/bolt-shirt-1200x1500.c2599ac5.jpg"></a></div><div class="inventory_item_description"><div class="inventory_item_label"><a href="#" id="item_1_title_link"><div class="inventory_item_name ">Sauce Labs Bolt T-Shirt</div></a><div class="inventory_item_desc">Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.</div></div><div class="pricebar"><div class="inventory_item_price">$15.99</div><button class="btn btn_primary btn_small btn_inventory " data-test="add-to-cart-sauce-labs-bolt-t-shirt" id="add-to-cart-sauce-labs-bolt-t-shirt" name="add-to-cart-sauce-labs-bolt-t-shirt">Add to cart</button></div></div>
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - aa40da92-7435-46af-a26c-34dbf238c2d5
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - <div class="inventory_item_img"><a href="#" id="item_5_img_link"><img alt="Sauce Labs Fleece Jacket" class="inventory_item_img" src="/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg"></a></div><div class="inventory_item_description"><div class="inventory_item_label"><a href="#" id="item_5_title_link"><div class="inventory_item_name ">Sauce Labs Fleece Jacket</div></a><div class="inventory_item_desc">It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.</div></div><div class="pricebar"><div class="inventory_item_price">$49.99</div><button class="btn btn_primary btn_small btn_inventory " data-test="add-to-cart-sauce-labs-fleece-jacket" id="add-to-cart-sauce-labs-fleece-jacket" name="add-to-cart-sauce-labs-fleece-jacket">Add to cart</button></div></div>
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - d4831b55-a6e6-4b83-972e-34ae510916b4
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Add to cart
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - <div class="inventory_item_img"><a href="#" id="item_2_img_link"><img alt="Sauce Labs Onesie" class="inventory_item_img" src="/static/media/red-onesie-1200x1500.2ec615b2.jpg"></a></div><div class="inventory_item_description"><div class="inventory_item_label"><a href="#" id="item_2_title_link"><div class="inventory_item_name ">Sauce Labs Onesie</div></a><div class="inventory_item_desc">Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.</div></div><div class="pricebar"><div class="inventory_item_price">$7.99</div><button class="btn btn_primary btn_small btn_inventory " data-test="add-to-cart-sauce-labs-onesie" id="add-to-cart-sauce-labs-onesie" name="add-to-cart-sauce-labs-onesie">Add to cart</button></div></div>
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - bc20822c-8280-47f4-b5b7-1970009b4a11
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+2024-03-08 17:46:54 - root: INFO: list_items_available_in_shopping_page - <div class="inventory_item_img"><a href="#" id="item_3_img_link"><img alt="Test.allTheThings() T-Shirt (Red)" class="inventory_item_img" src="/static/media/red-tatt-1200x1500.30dadef4.jpg"></a></div><div class="inventory_item_description"><div class="inventory_item_label"><a href="#" id="item_3_title_link"><div class="inventory_item_name ">Test.allTheThings() T-Shirt (Red)</div></a><div class="inventory_item_desc">This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.</div></div><div class="pricebar"><div class="inventory_item_price">$15.99</div><button class="btn btn_primary btn_small btn_inventory " data-test="add-to-cart-test.allthethings()-t-shirt-(red)" id="add-to-cart-test.allthethings()-t-shirt-(red)" name="add-to-cart-test.allthethings()-t-shirt-(red)">Add to cart</button></div></div>
+2024-03-08 17:46:54 - root: INFO: test_list_of_inventories_from_the_page - {'165bbce4-436a-46c7-b554-532d3f597331': 'Sauce Labs Backpack\ncarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.\n$29.99\nAdd to cart', '769d9555-ab01-44f6-8979-ebaa5818bc97': "Sauce Labs Bike Light\nA red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.\n$9.99\nAdd to cart", '7757d0ad-312b-45e9-bcb4-3754530c3e7c': 'Sauce Labs Bolt T-Shirt\nGet your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.\n$15.99\nAdd to cart', 'aa40da92-7435-46af-a26c-34dbf238c2d5': "Sauce Labs Fleece Jacket\nIt's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.\n$49.99\nAdd to cart", 'd4831b55-a6e6-4b83-972e-34ae510916b4': "Sauce Labs Onesie\nRib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.\n$7.99\nAdd to cart", 'bc20822c-8280-47f4-b5b7-1970009b4a11': 'Test.allTheThings() T-Shirt (Red)\nThis classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.\n$15.99\nAdd to cart'}
+2024-03-08 17:47:20 - root: INFO: test_verify_the_selected_items_added_to_cart - Child elements
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 3e4d44db-7ac2-4948-8257-2cfcfbf03304
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - QTY
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - a629d1bd-e319-48c0-aef9-a498220d1e3e
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - Description
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1530d8a7-87a1-4aad-8746-4d9f87856cda
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 8fbc175a-e0a2-4a31-b512-82aaf638d390
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 759ae890-3219-408b-b0bb-a65560567cee
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 3e4d44db-7ac2-4948-8257-2cfcfbf03304
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - QTY
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - a629d1bd-e319-48c0-aef9-a498220d1e3e
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - Description
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1530d8a7-87a1-4aad-8746-4d9f87856cda
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 8fbc175a-e0a2-4a31-b512-82aaf638d390
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 759ae890-3219-408b-b0bb-a65560567cee
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 3e4d44db-7ac2-4948-8257-2cfcfbf03304
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - QTY
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - a629d1bd-e319-48c0-aef9-a498220d1e3e
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - Description
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1530d8a7-87a1-4aad-8746-4d9f87856cda
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Remove
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 8fbc175a-e0a2-4a31-b512-82aaf638d390
+2024-03-08 17:47:20 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Remove
+2024-03-08 17:47:21 - root: INFO: verify_item_is_added_to_the_cart - 759ae890-3219-408b-b0bb-a65560567cee
+2024-03-08 17:47:21 - root: INFO: verify_item_is_added_to_the_cart - 1
+Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Remove
+2024-03-08 17:47:21 - utilities.utils: INFO: test_verify_the_selected_items_added_to_cart - TEST LOG MESSAGE
