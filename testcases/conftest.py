@@ -37,8 +37,8 @@ def setup(request):
     url = "https://www.saucedemo.com/"
     options = webdriver.FirefoxOptions()
     options.add_argument('--headless')
-    # driver = webdriver.Firefox(options=options)
-    driver = webdriver.Firefox()
+    driver = webdriver.Firefox(options=options)
+    # driver = webdriver.Firefox()
     driver.get(url)
     driver.maximize_window()
     request.cls.driver = driver
